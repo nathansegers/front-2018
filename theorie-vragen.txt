@@ -1,0 +1,8 @@
+Week 1: Basis
+
+ - Wat is het verschil tussen null en undefined
+ - HTML voluit geschreven
+ - Wat is het verschil tussen Block Scope en Function Scope
+ - Wat is het verschil tussen strict en de strict equality operator
+ - Wat bedoelt men met de Lexical Scope
+ - Welke 2 worden uitgevoerd door de JavaScript Interpreter
